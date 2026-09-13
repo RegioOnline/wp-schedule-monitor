@@ -6,7 +6,7 @@ WordPress normally publishes scheduled posts through WP-Cron. In some situations
 
 ## Beta status
 
-**Current version: 0.4.1-beta.2**
+**Current version: 0.4.1-beta.3**
 
 WP Schedule Monitor is currently in beta testing.
 
